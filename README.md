@@ -1,2 +1,2 @@
-# C-Algorithm-Competition-Template
+# Cpp-Algorithm-Competition-Template
 Welcome everyone to use!
